@@ -2,5 +2,5 @@
 @section('title', 'for aling')
 
 @section('content')
-    <h1>you are my sweet</h1>
+    <h1>这只是个首页呢</h1>
 @stop

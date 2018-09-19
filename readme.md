@@ -3,7 +3,6 @@
 - ubuntu 16.04
 - laravel 5.5
 - composer
-- node 最新版本 (js 编译环境)
 - mysql 5.7
 - php 7.2+
 - php 扩展 (pdo,zip,mysqli, mbstring,openssl,xdebug,tokenizer,mcrypt,bcmath,xml,gd)
